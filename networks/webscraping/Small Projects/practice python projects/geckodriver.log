@@ -1,0 +1,966 @@
+1484585046940	geckodriver	INFO	Listening on 127.0.0.1:49887
+1484585047939	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9GPDZVgVUdDv
+1484585047941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484585047943	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40707
+1484585112103	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484585133269	geckodriver	INFO	Listening on 127.0.0.1:58919
+1484585134269	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JIegNGuoFdyS
+1484585134271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484585134274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36143
+1484585198348	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484631888529	geckodriver	INFO	Listening on 127.0.0.1:51727
+1484631889450	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6TOoLQnIzcz6
+1484631889452	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484631889475	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39049
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+1484631954259	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484631997838	geckodriver	INFO	Listening on 127.0.0.1:53379
+1484631998838	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.L00tgYJMQcBV
+1484631998841	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484631998844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40343
+JavaScript error: chrome://browser/content/tab-content.js, line 333: TypeError: content is null
+1484632124639	geckodriver	INFO	Listening on 127.0.0.1:47431
+1484632125640	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ePvePfTbv0FM
+1484632125642	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484632125644	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33007
+1484635195483	geckodriver	INFO	Listening on 127.0.0.1:39265
+1484635196482	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uf8ZYKPnwVqf
+1484635196483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635196485	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45547
+
+(firefox:5434): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5434): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635260829	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+
+(firefox:5434): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635288294	geckodriver	INFO	Listening on 127.0.0.1:37731
+1484635289293	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FW8iNCMMPtSd
+1484635289295	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635289298	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37669
+
+(firefox:5565): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5565): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635372107	geckodriver	INFO	Listening on 127.0.0.1:47973
+1484635373108	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xZF5GppTmzei
+1484635373111	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635373113	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39089
+
+(firefox:5683): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5683): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635478986	geckodriver	INFO	Listening on 127.0.0.1:59743
+1484635479986	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gMxYibIunhMq
+1484635479988	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635479990	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37087
+
+(firefox:5808): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5808): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635503598	geckodriver	INFO	Listening on 127.0.0.1:45831
+1484635504598	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jp6elBKLEpzd
+1484635504600	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635504602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42203
+1484635558995	geckodriver	INFO	Listening on 127.0.0.1:51921
+1484635559994	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vZvNyR5Sb3YS
+1484635559996	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635559998	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34439
+
+(firefox:6014): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6014): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635777769	geckodriver	INFO	Listening on 127.0.0.1:47247
+1484635778770	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EdsbjMpxzddN
+1484635778771	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635778774	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41081
+
+(firefox:6179): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6179): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484635812442	geckodriver	INFO	Listening on 127.0.0.1:38755
+1484635813443	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IqzZfx4vpe98
+1484635813445	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484635813448	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36641
+
+(firefox:6282): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6282): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644312418	geckodriver	INFO	Listening on 127.0.0.1:60045
+1484644313416	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.We8G6FpVtp5u
+1484644313417	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644313419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42349
+1484644318667	geckodriver	INFO	Listening on 127.0.0.1:55597
+1484644319664	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2hY56PX0mNqt
+1484644319666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644319670	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40987
+
+(firefox:8140): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8140): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8140): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644327732 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8140): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644442357	geckodriver	INFO	Listening on 127.0.0.1:52547
+1484644443359	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XlYnEKiwRiJU
+1484644443361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644443365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43915
+
+(firefox:8279): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8279): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8279): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644450245 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8279): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644472565	geckodriver	INFO	Listening on 127.0.0.1:51847
+1484644473566	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2yfSqfdqFPCq
+1484644473567	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644473570	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41479
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644480561 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644490485	geckodriver	INFO	Listening on 127.0.0.1:51883
+1484644491486	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.esyLvXYhk4Xb
+1484644491488	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644491491	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46051
+
+(firefox:8477): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8477): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8477): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644500207 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8477): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644546972	geckodriver	INFO	Listening on 127.0.0.1:60303
+1484644547970	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pvREEeCUvsoF
+1484644547971	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644547973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46677
+
+(firefox:8595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644556052 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644846997	geckodriver	INFO	Listening on 127.0.0.1:53409
+1484644847996	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HTdsSsPRjo7D
+1484644847997	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644847999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46305
+
+(firefox:8769): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8769): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8769): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644856472 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8769): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644877129	geckodriver	INFO	Listening on 127.0.0.1:49947
+1484644878128	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.atWcbMS1IeL2
+1484644878129	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484644878130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43007
+
+(firefox:8869): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8869): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8869): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484644886377 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:8869): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484644942232	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+
+(firefox:8869): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484645055017	geckodriver	INFO	Listening on 127.0.0.1:49075
+1484645056017	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.t7JPI1LxHx68
+1484645056018	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484645056019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45595
+
+(firefox:9024): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9024): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9024): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484645064456 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:9024): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+
+(firefox:9024): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484645123704	geckodriver	INFO	Listening on 127.0.0.1:50187
+1484645124703	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.m4rG7wTGPVI8
+1484645124706	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484645124710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38943
+
+(firefox:9139): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9139): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9139): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484645132662 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:9139): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484645213282	geckodriver	INFO	Listening on 127.0.0.1:41707
+1484645214283	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1ldsema3p5qQ
+1484645214287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484645214290	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41699
+
+(firefox:9267): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9267): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9267): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484645221862 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:9267): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484654222055	geckodriver	INFO	Listening on 127.0.0.1:54247
+1484654223052	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.06ytAQQM68BW
+1484654223053	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484654223055	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35623
+
+(firefox:10204): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10204): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10204): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484654231130 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:10204): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484654242601	geckodriver	INFO	Listening on 127.0.0.1:38063
+1484654243600	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9nwheACyTgPt
+1484654243601	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484654243603	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34829
+
+(firefox:10298): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10298): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10298): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484654251371 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:10298): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484655414990	geckodriver	INFO	Listening on 127.0.0.1:36457
+1484655415991	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0VsI1zdDWnhC
+1484655415993	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484655415997	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44927
+
+(firefox:10571): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10571): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10571): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484655424399 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:10571): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484655714918	geckodriver	INFO	Listening on 127.0.0.1:55801
+1484655715919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.g1gYa5KMa9MG
+1484655715921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484655715924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32863
+
+(firefox:10766): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10766): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10766): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484655724451 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:10766): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484655786363	geckodriver	INFO	Listening on 127.0.0.1:57825
+1484655787362	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IzAfmqCIjJjy
+1484655787364	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484655787367	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44989
+
+(firefox:10870): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10870): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10870): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484655795662 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:10870): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484656808998	geckodriver	INFO	Listening on 127.0.0.1:54379
+1484656810000	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xmMDLqh7dwSJ
+1484656810002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484656810005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45241
+
+(firefox:11069): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11069): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11069): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484656818392 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:11069): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484656867618	geckodriver	INFO	Listening on 127.0.0.1:55627
+1484656868619	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yohFtIpUcRs4
+1484656868621	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484656868624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40193
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484656877974 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484659298117	geckodriver	INFO	Listening on 127.0.0.1:56621
+1484659299117	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nhxLWnfixF9A
+1484659299119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484659299121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42359
+
+(firefox:11525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+JavaScript error: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1, line 2841: NS_ERROR_NOT_AVAILABLE: 
+1484659331893	geckodriver	INFO	Listening on 127.0.0.1:39269
+1484659332894	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pa9XmaQvIyaS
+1484659332897	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484659332900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42963
+
+(firefox:11629): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11629): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11629): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484659341266 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:11629): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484661425733	geckodriver	INFO	Listening on 127.0.0.1:55563
+1484661426734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VFbWHy32D9wS
+1484661426735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484661426738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44749
+1484661443860	geckodriver	INFO	Listening on 127.0.0.1:53471
+1484661444860	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CD8ULBcUGGub
+1484661444863	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484661444866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45497
+
+(firefox:12567): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12567): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12567): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12567): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3239:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3270:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:228:5
+send/proxy<@chrome://marionette/content/proxy.js:150:7
+send@chrome://marionette/content/proxy.js:111:17
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:28:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1905:1
+TaskImpl_run@resource://gre/modules/Task.jsm:331:41
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:384:1
+TaskImpl_run@resource://gre/modules/Task.jsm:323:13
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:119:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:90:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3239:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3270:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:228:5
+send/proxy<@chrome://marionette/content/proxy.js:150:7
+send@chrome://marionette/content/proxy.js:111:17
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:28:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1905:1
+TaskImpl_run@resource://gre/modules/Task.jsm:331:41
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:384:1
+TaskImpl_run@resource://gre/modules/Task.jsm:323:13
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:119:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:90:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3239:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3270:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:228:5
+send/proxy<@chrome://marionette/content/proxy.js:150:7
+send@chrome://marionette/content/proxy.js:111:17
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:28:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1905:1
+TaskImpl_run@resource://gre/modules/Task.jsm:331:41
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:384:1
+TaskImpl_run@resource://gre/modules/Task.jsm:323:13
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:119:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:90:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3239:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3270:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:228:5
+send/proxy<@chrome://marionette/content/proxy.js:150:7
+send@chrome://marionette/content/proxy.js:111:17
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:28:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1905:1
+TaskImpl_run@resource://gre/modules/Task.jsm:331:41
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:384:1
+TaskImpl_run@resource://gre/modules/Task.jsm:323:13
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:119:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:90:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+
+1484661476834	geckodriver	INFO	Listening on 127.0.0.1:46473
+1484661477836	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oic5QGqysRRe
+1484661477839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484661477842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42679
+
+(firefox:12686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484661513144	geckodriver	INFO	Listening on 127.0.0.1:54807
+1484661514145	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BTcCAVUUsnXD
+1484661514147	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484661514151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46085
+
+(firefox:12785): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12785): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12785): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12785): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662557662	geckodriver	INFO	Listening on 127.0.0.1:55969
+1484662558664	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rydnpBjesXlx
+1484662558666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662558669	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44683
+
+(firefox:13230): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13230): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13230): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13230): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662577315 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484662645941	geckodriver	INFO	Listening on 127.0.0.1:55263
+1484662646943	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xD18VB2aoeyz
+1484662646946	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662646948	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41111
+
+(firefox:13355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662665234 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484662703537	geckodriver	INFO	Listening on 127.0.0.1:57149
+1484662704539	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8iN3Hslo27dv
+1484662704542	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662704545	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33477
+
+(firefox:13474): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13474): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13474): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13474): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662744977	geckodriver	INFO	Listening on 127.0.0.1:49331
+1484662745978	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xesy2oVrkPn7
+1484662745981	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662745984	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34549
+
+(firefox:13582): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13582): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13582): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13582): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662765091 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484662779260	geckodriver	INFO	Listening on 127.0.0.1:33707
+1484662780261	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eNNLwoUI4YOO
+1484662780263	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662780266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41233
+
+(firefox:13686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662799989 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:13686): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484662892218	geckodriver	INFO	Listening on 127.0.0.1:40313
+1484662893217	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KX0Agc859BCX
+1484662893219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662893221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39705
+
+(firefox:13826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 229) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 229) is larger than the max allowable value (17895698) [div]
+1484662912262 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484662972918	geckodriver	INFO	Listening on 127.0.0.1:49539
+1484662973919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wmwGtmwIQSUi
+1484662973921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484662973924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45437
+
+(firefox:13941): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13941): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13941): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13941): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484662987922 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484663038836	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484663039170	geckodriver	INFO	Listening on 127.0.0.1:39597
+1484663040170	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0aST5usVu7w7
+1484663040171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663040174	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39343
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663083856	geckodriver	INFO	Listening on 127.0.0.1:46797
+1484663084857	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iaehQAC5llZG
+1484663084859	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663084863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41619
+
+(firefox:14163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663153756	geckodriver	INFO	Listening on 127.0.0.1:50893
+1484663154757	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NB0F89wVXe3K
+1484663154759	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663154763	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43885
+
+(firefox:14284): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14284): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14284): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14284): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663209325	geckodriver	INFO	Listening on 127.0.0.1:35175
+1484663210327	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ekRVTj0sFL1R
+1484663210329	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663210332	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43967
+
+(firefox:14390): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14390): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14390): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14390): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663336566	geckodriver	INFO	Listening on 127.0.0.1:34757
+1484663337568	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WRymZljYLvKh
+1484663337570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663337573	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35933
+
+(firefox:14529): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14529): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14529): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14529): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663351034 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484663388594	geckodriver	INFO	Listening on 127.0.0.1:60681
+1484663389596	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0WDcJYdnnpZN
+1484663389598	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663389601	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34171
+
+(firefox:14635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663402556 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484663429951	geckodriver	INFO	Listening on 127.0.0.1:57303
+1484663430953	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qbSSzjQgELr1
+1484663430954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663430957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46399
+
+(firefox:14741): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14741): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14741): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14741): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663443886 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484663460215	geckodriver	INFO	Listening on 127.0.0.1:56475
+1484663461217	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Kg1OWz29Fcyv
+1484663461219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663461222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46145
+
+(firefox:14837): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14837): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14837): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14837): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484663475110 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+1484663560884	geckodriver	INFO	Listening on 127.0.0.1:41757
+1484663561886	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PsujX4lbiN5c
+1484663561888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663561892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41961
+
+(firefox:14956): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14956): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484663619339	geckodriver	INFO	Listening on 127.0.0.1:50257
+1484663620340	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZEmkTsS3wZUi
+1484663620341	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663620344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38991
+
+(firefox:15064): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15064): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484663742658	geckodriver	INFO	Listening on 127.0.0.1:54389
+1484663743658	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KXjPe9CPDSch
+1484663743660	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663743663	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39295
+
+(firefox:15178): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15178): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484663820427	geckodriver	INFO	Listening on 127.0.0.1:37565
+1484663821427	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.b7HZdkYdoLY9
+1484663821428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484663821431	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42721
+
+(firefox:15299): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15299): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484663886342	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484664259929	geckodriver	INFO	Listening on 127.0.0.1:40703
+1484664260930	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.44crEG93FPP6
+1484664260933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664260936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38173
+
+(firefox:15550): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15550): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484664295532	geckodriver	INFO	Listening on 127.0.0.1:55727
+1484664296533	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JT97Qgs2Q45f
+1484664296535	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664296537	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34963
+
+(firefox:15649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484664537971	geckodriver	INFO	Listening on 127.0.0.1:37897
+1484664538972	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Kb6YghVUonwi
+1484664538975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664538978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37055
+
+(firefox:15790): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484664641312	geckodriver	INFO	Listening on 127.0.0.1:41081
+1484664642314	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ugKyj7jbt3Sa
+1484664642316	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664642319	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37485
+
+(firefox:15901): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15901): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15901): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484664650805 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:15901): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484664719485	geckodriver	INFO	Listening on 127.0.0.1:45949
+1484664720487	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JHmrzbFVEX5i
+1484664720489	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664720492	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40425
+
+(firefox:16018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484664728322 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:16018): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484664877136	geckodriver	INFO	Listening on 127.0.0.1:57001
+1484664878138	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gDdX3ndcVeY6
+1484664878140	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484664878143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41613
+
+(firefox:16155): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16155): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16155): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484664885663 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:16155): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484665070079	geckodriver	INFO	Listening on 127.0.0.1:55755
+1484665071079	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VTuLsp6RHO87
+1484665071080	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484665071082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43617
+
+(firefox:16264): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16264): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16264): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484665078585 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:16264): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484665483797	geckodriver	INFO	Listening on 127.0.0.1:38959
+1484665484798	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hv6jNNUmQ7i5
+1484665484801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484665484803	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33171
+
+(firefox:16497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484665492171 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:16497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484665530410	geckodriver	INFO	Listening on 127.0.0.1:56749
+1484665531412	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nVQt3VH74mRo
+1484665531414	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484665531417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43909
+
+(firefox:16617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484665538843 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:16617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484666806214	geckodriver	INFO	Listening on 127.0.0.1:45331
+1484666807216	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FcwBKCDUQvEO
+1484666807218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484666807221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37109
+
+(firefox:17089): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17089): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17089): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484666814905 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:17089): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484666837981	geckodriver	INFO	Listening on 127.0.0.1:56065
+1484666838983	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AVMQ7BdFsAsi
+1484666838986	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484666838989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42455
+
+(firefox:17197): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17197): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17197): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484666847604 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:17197): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 471: TypeError: this.tablesData[table] is undefined
+1484667278832	geckodriver	INFO	Listening on 127.0.0.1:48691
+1484667279833	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hmfq11x80KQl
+1484667279836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484667279840	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42807
+
+(firefox:17422): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17422): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17422): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17422): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484667444037	geckodriver	INFO	Listening on 127.0.0.1:57135
+1484667445037	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6bhktmDso7Yw
+1484667445040	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484667445043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46287
+
+(firefox:17575): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17575): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17575): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484667457228 Marionette: Element is currently only visible via the accessibility API and can be manipulated by it -> id: Passwd, tagName: INPUT, className: 
+1484667457239 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:17575): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484668321716	geckodriver	INFO	Listening on 127.0.0.1:36855
+1484668322717	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yxuM3xZq5R1z
+1484668322719	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484668322722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43603
+
+(firefox:17855): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17855): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17855): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17855): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484668347025	geckodriver	INFO	Listening on 127.0.0.1:56755
+1484668348026	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bJthJn7B2VTV
+1484668348029	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484668348032	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36873
+
+(firefox:17951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484668358335 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:17951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]
+1484668634193	geckodriver	INFO	Listening on 127.0.0.1:35151
+1484668635194	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nNDYWh1ERVVd
+1484668635196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484668635199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35579
+
+(firefox:18065): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18065): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18065): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1484668642408 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: Passwd, tagName: INPUT, className: 
+
+(firefox:18065): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Performance warning: Async animation disabled because frame size (13288, 252) is bigger than the viewport (1152, 624) or the visual rectangle (13288, 252) is larger than the max allowable value (17895698) [div]

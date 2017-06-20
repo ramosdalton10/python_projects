@@ -1,0 +1,11 @@
+number	song_name	Artist_name	Album	duration
+1	"One Night Love Affair"	Bryan Adams	Reckless	4:32
+2	"She's Only Happy When She's Dancin'"	Bryan Adams	Reckless	3:14
+3	"Run to You"	Bryan Adams	Reckless	3:54
+4	"Heaven"	Bryan Adams	Reckless	4:03
+5	"Somebody"	Bryan Adams	Reckless	4:44
+6	"Summer of '69"	Bryan Adams	Reckless	3:35
+7	"Kids Wanna Rock"	Bryan Adams	Reckless	2:36
+8	"It's Only Love" (w/ Tina Turner)	Bryan Adams	Reckless	3:15
+9	"Long Gone"	Bryan Adams	Reckless	3:57
+10	"Ain't Gonna Cry"	Bryan Adams	Reckless	4:06
